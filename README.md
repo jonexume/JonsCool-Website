@@ -1,1 +1,3 @@
 # JonsCool-Website
+
+This repo is my website and I used javascript, react, .........
